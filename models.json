@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "last_synchronized": "2026-08-12",
+  "project_url": "https://video-model-signal.astute-luck-3150.chatgpt.site/",
+  "records": [
+    {
+      "id": "seedance-2-5",
+      "display_name": "Seedance 2.5",
+      "maker": "ByteDance / Dreamina",
+      "status": "limited_rollout",
+      "official_creator_access": "available_with_account_and_region_variation",
+      "official_api_status": "not_confirmed",
+      "official_url": "https://dreamina.capcut.com/seedance/seedance-2-5",
+      "official_api_url": null,
+      "guide_url": "https://video-model-signal.astute-luck-3150.chatgpt.site/seedance-2-5-release-date",
+      "verified_on": "2026-08-11",
+      "note": "Dreamina presents Seedance 2.5 as live worldwide, while its access guide says signed-in availability can still vary by account and region."
+    },
+    {
+      "id": "dreamina-jimeng",
+      "display_name": "Dreamina / Jimeng",
+      "maker": "ByteDance ecosystem",
+      "status": "web_available",
+      "official_creator_access": "separate_official_services",
+      "official_api_status": "not_evaluated",
+      "official_url": "https://dreamina.capcut.com/",
+      "official_api_url": null,
+      "guide_url": "https://video-model-signal.astute-luck-3150.chatgpt.site/dreamina-vs-jimeng",
+      "verified_on": "2026-08-11",
+      "note": "Dreamina and Jimeng are related services for different markets; accounts, memberships, credits, prices, and rollout timing should not be assumed to transfer."
+    },
+    {
+      "id": "kling-video-3-0",
+      "display_name": "Kling Video 3.0",
+      "maker": "Kuaishou / Kling AI",
+      "status": "web_available",
+      "official_creator_access": "global_web_available",
+      "official_api_status": "not_evaluated",
+      "official_url": "https://kling.ai/",
+      "official_api_url": null,
+      "guide_url": "https://video-model-signal.astute-luck-3150.chatgpt.site/kling-3-pricing",
+      "verified_on": "2026-08-11",
+      "note": "The official guide publishes credit rates per generated second; cash cost still depends on the live account plan."
+    },
+    {
+      "id": "wan-2-7",
+      "display_name": "Wan 2.7",
+      "maker": "Alibaba / Wan",
+      "status": "api_available",
+      "official_creator_access": "official_product_site_available",
+      "official_api_status": "international_api_documented",
+      "official_url": "https://wan.video/",
+      "official_api_url": "https://www.alibabacloud.com/help/en/model-studio/text-to-video-api-reference",
+      "guide_url": "https://video-model-signal.astute-luck-3150.chatgpt.site/wan-2-7-access",
+      "verified_on": "2026-08-11",
+      "note": "Alibaba Cloud documents international model identifiers and requires the model, endpoint, and API key to belong to the same region."
+    }
+  ]
+}
+

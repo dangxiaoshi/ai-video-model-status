@@ -1,0 +1,61 @@
+# AI Video Model Status
+
+An independent, source-backed status table for fast-moving AI video models from China.
+
+The useful question is not only “does this model exist?” It is also:
+
+- Is the official creator website live?
+- Is access broad, account-dependent, or region-dependent?
+- Is an official international API documented?
+- Is pricing published by the provider, or only by third-party wrappers?
+
+This repository keeps those states separate. It does not rank providers, sell credits, or use affiliate links.
+
+**Last synchronized:** August 12, 2026  
+**Full guides:** [Video Model Signal](https://video-model-signal.astute-luck-3150.chatgpt.site/?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status)
+
+## Current status
+
+| Model / service | Maker | Official creator access | Official API | What is confirmed | Source-backed guide |
+|---|---|---|---|---|---|
+| Seedance 2.5 | ByteDance / Dreamina | Live worldwide on the official product page; signed-in access can still vary | Not confirmed in the sources used here | Dreamina now presents Seedance 2.5 as live and routes creators into its workspace | [Release and access status](https://video-model-signal.astute-luck-3150.chatgpt.site/seedance-2-5-release-date?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
+| Dreamina / Jimeng | ByteDance ecosystem | Both have official web entries, for different markets | Not treated as one shared API | Related services, but accounts, credits, memberships, prices, and rollout timing are not interchangeable | [Dreamina vs Jimeng](https://video-model-signal.astute-luck-3150.chatgpt.site/dreamina-vs-jimeng?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
+| Kling Video 3.0 | Kuaishou / Kling AI | Global creator website available | Not evaluated in this dataset | The official model guide publishes credits per generated second; that is not one universal dollar price | [Official credit-rate guide](https://video-model-signal.astute-luck-3150.chatgpt.site/kling-3-pricing?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
+| Wan 2.7 | Alibaba / Wan | Official Wan product website available | International Model Studio references available | Alibaba documents international endpoints, model identifiers, regional constraints, and selected image-to-video rates | [International access guide](https://video-model-signal.astute-luck-3150.chatgpt.site/wan-2-7-access?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
+
+## Reusable data
+
+- [`models.json`](models.json) — structured records for scripts and research workflows.
+- [`models.csv`](models.csv) — the same records for spreadsheets.
+
+The data uses explicit states:
+
+- `coming_soon`
+- `limited_rollout`
+- `web_available`
+- `api_available`
+- `retired`
+
+`not_confirmed` means the official sources checked for this record did not prove the claim. It does not mean the capability can never exist elsewhere.
+
+## Official sources
+
+- [Dreamina: Seedance 2.5 official model page](https://dreamina.capcut.com/seedance/seedance-2-5)
+- [Dreamina: how to access Seedance 2.5](https://dreamina.capcut.com/seedance/how-to-access-seedance-2-5)
+- [Jimeng AI official website](https://www.jimeng.com/)
+- [Kuaishou: Kling AI 3.0 launch announcement](https://ir.kuaishou.com/news-releases/news-release-details/kling-ai-launches-30-model-ushering-era-where-everyone-can-be)
+- [Kling AI: Video 3.0 model guide](https://home.kling.ai/quickstart/klingai-video-3-model-user-guide)
+- [Alibaba Cloud: Model Studio pricing](https://www.alibabacloud.com/help/en/model-studio/model-pricing)
+- [Alibaba Cloud: Wan text-to-video API reference](https://www.alibabacloud.com/help/en/model-studio/text-to-video-api-reference)
+- [Alibaba Cloud: Wan image-to-video API reference](https://www.alibabacloud.com/help/en/model-studio/image-to-video-general-api-reference)
+
+## Corrections
+
+Fast-moving model documentation changes often. If a status is stale, open an issue with:
+
+1. the exact official URL;
+2. the sentence or table that changed; and
+3. the date you checked it.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). Unofficial reseller pages are useful market evidence, but they do not replace provider evidence for release, access, or official pricing claims.
+
