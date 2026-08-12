@@ -23,6 +23,8 @@ This repository keeps those states separate. It does not rank providers, sell cr
 | Kling Video 3.0 | Kuaishou / Kling AI | Global creator website available | Not evaluated in this dataset | The official model guide publishes credits per generated second; that is not one universal dollar price | [Official credit-rate guide](https://video-model-signal.astute-luck-3150.chatgpt.site/kling-3-pricing?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
 | Wan 2.7 | Alibaba / Wan | Official Wan product website available | International Model Studio references available | Alibaba documents international endpoints, model identifiers, regional constraints, and selected image-to-video rates | [International access guide](https://video-model-signal.astute-luck-3150.chatgpt.site/wan-2-7-access?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
 
+**Version distinction:** Wan 2.7 in this table is an Alibaba Cloud Model Studio API model. The current downloadable Apache-2.0 release is [Wan 2.2](https://github.com/Wan-Video/Wan2.2), not Wan 2.7. A repository that links Wan 2.7 claims to Wan2.1 or Wan2.2 code is mixing the cloud and open-source version lines.
+
 ## Reusable data
 
 - [`models.json`](models.json) — structured records for scripts and research workflows.
@@ -48,6 +50,7 @@ The data uses explicit states:
 - [Alibaba Cloud: Model Studio pricing](https://www.alibabacloud.com/help/en/model-studio/model-pricing)
 - [Alibaba Cloud: Wan text-to-video API reference](https://www.alibabacloud.com/help/en/model-studio/text-to-video-api-reference)
 - [Alibaba Cloud: Wan image-to-video API reference](https://www.alibabacloud.com/help/en/model-studio/image-to-video-general-api-reference)
+- [Wan open-source organization: Wan 2.2 repository](https://github.com/Wan-Video/Wan2.2)
 
 ## Corrections
 
@@ -58,4 +61,3 @@ Fast-moving model documentation changes often. If a status is stale, open an iss
 3. the date you checked it.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Unofficial reseller pages are useful market evidence, but they do not replace provider evidence for release, access, or official pricing claims.
-
