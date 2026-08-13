@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_synchronized": "2026-08-12",
+  "last_synchronized": "2026-08-13",
   "project_url": "https://video-model-signal.astute-luck-3150.chatgpt.site/",
   "records": [
     {
@@ -52,8 +52,8 @@
       "official_url": "https://wan.video/",
       "official_api_url": "https://www.alibabacloud.com/help/en/model-studio/text-to-video-api-reference",
       "guide_url": "https://video-model-signal.astute-luck-3150.chatgpt.site/wan-2-7-access",
-      "verified_on": "2026-08-12",
-      "note": "Alibaba Cloud documents Wan 2.7 as a Model Studio API model with region-matched identifiers, endpoints, and API keys. The downloadable Apache-2.0 repository is Wan 2.2, not Wan 2.7."
+      "verified_on": "2026-08-13",
+      "note": "Alibaba Cloud documents Wan 2.7 as a Model Studio API model with region-matched identifiers, endpoints, and API keys. Wan website membership benefits do not apply to Model Studio API calls because they use separate billing systems. The downloadable Apache-2.0 repository is Wan 2.2, not Wan 2.7."
     }
   ]
 }
