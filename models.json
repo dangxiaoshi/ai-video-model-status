@@ -9,12 +9,12 @@
       "maker": "ByteDance / Dreamina",
       "status": "limited_rollout",
       "official_creator_access": "available_with_account_and_region_variation",
-      "official_api_status": "not_confirmed",
+      "official_api_status": "coming_soon",
       "official_url": "https://dreamina.capcut.com/seedance/seedance-2-5",
       "official_api_url": null,
       "guide_url": "https://video-model-signal.astute-luck-3150.chatgpt.site/seedance-2-5-release-date",
-      "verified_on": "2026-08-11",
-      "note": "Dreamina presents Seedance 2.5 as live worldwide, while its access guide says signed-in availability can still vary by account and region."
+      "verified_on": "2026-08-13",
+      "note": "ByteDance officially launched Seedance 2.5 on July 31 and says it is rolling out on Jimeng AI, Doubao Pro and other platforms; BytePlus ModelArk API access is coming soon, while creator access can still vary by account and region."
     },
     {
       "id": "dreamina-jimeng",

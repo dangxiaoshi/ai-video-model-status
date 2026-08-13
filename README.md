@@ -11,14 +11,14 @@ The useful question is not only “does this model exist?” It is also:
 
 This repository keeps those states separate. It does not rank providers, sell credits, or use affiliate links.
 
-**Last synchronized:** August 12, 2026  
+**Last synchronized:** August 13, 2026
 **Full guides:** [Video Model Signal](https://video-model-signal.astute-luck-3150.chatgpt.site/?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status)
 
 ## Current status
 
 | Model / service | Maker | Official creator access | Official API | What is confirmed | Source-backed guide |
 |---|---|---|---|---|---|
-| Seedance 2.5 | ByteDance / Dreamina | Live worldwide on the official product page; signed-in access can still vary | Not confirmed in the sources used here | Dreamina now presents Seedance 2.5 as live and routes creators into its workspace | [Release and access status](https://video-model-signal.astute-luck-3150.chatgpt.site/seedance-2-5-release-date?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
+| Seedance 2.5 | ByteDance / Dreamina | Officially launched July 31; rolling out on Jimeng AI, Doubao Pro and other platforms; Dreamina says live worldwide | Coming soon via BytePlus ModelArk | ByteDance confirms the dated launch while account and region visibility can still vary by creator platform | [Release and access status](https://video-model-signal.astute-luck-3150.chatgpt.site/seedance-2-5-release-date?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
 | Dreamina / Jimeng | ByteDance ecosystem | Both have official web entries, for different markets | Not treated as one shared API | Related services, but accounts, credits, memberships, prices, and rollout timing are not interchangeable | [Dreamina vs Jimeng](https://video-model-signal.astute-luck-3150.chatgpt.site/dreamina-vs-jimeng?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
 | Kling Video 3.0 | Kuaishou / Kling AI | Global creator website available | Not evaluated in this dataset | The official model guide publishes credits per generated second; that is not one universal dollar price | [Official credit-rate guide](https://video-model-signal.astute-luck-3150.chatgpt.site/kling-3-pricing?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
 | Wan 2.7 | Alibaba / Wan | Official Wan product website available | International Model Studio references available | Alibaba documents international endpoints, model identifiers, regional constraints, and selected image-to-video rates | [International access guide](https://video-model-signal.astute-luck-3150.chatgpt.site/wan-2-7-access?utm_source=github&utm_medium=repository&utm_campaign=ai-video-model-status) |
@@ -42,6 +42,7 @@ The data uses explicit states:
 
 ## Official sources
 
+- [ByteDance Seed: Introducing Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 - [Dreamina: Seedance 2.5 official model page](https://dreamina.capcut.com/seedance/seedance-2-5)
 - [Dreamina: how to access Seedance 2.5](https://dreamina.capcut.com/seedance/how-to-access-seedance-2-5)
 - [Jimeng AI official website](https://www.jimeng.com/)
